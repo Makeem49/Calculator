@@ -36,7 +36,7 @@ document.querySelector('.equal').addEventListener('click', event => {
         output.value = sum(firstNumber, secondNumber)
     } else if (operation === 'subtraction') {
         output.value = subtraction(firstNumber, secondNumber)
-    } else if (operation === 'division ') {
+    } else if (operation === 'division') {
         output.value = division(firstNumber, secondNumber)
     } else if (operation==='multiplication') {
         output.value = multiplication(firstNumber, secondNumber)

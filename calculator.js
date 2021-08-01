@@ -11,5 +11,5 @@ export function multiplication(a,b) {
 }
 
 export function division(a,b) {
-    return a + b 
+    return a / b 
 }
